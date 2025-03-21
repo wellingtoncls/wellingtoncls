@@ -16,3 +16,9 @@ Here are some ideas to get you started:
   <a href=https://developer.hashicorp.com/terraform/docs><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <a href=https://developer.hashicorp.com/terraform/docs><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div></br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wellingtoncls/wellingtoncls/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wellingtoncls/wellingtoncls/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wellingtoncls/wellingtoncls/output/github-contribution-grid-snake.svg">
+</picture>
